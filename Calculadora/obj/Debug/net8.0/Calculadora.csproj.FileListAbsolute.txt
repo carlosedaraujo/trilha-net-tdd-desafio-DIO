@@ -1,0 +1,15 @@
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\DIO\NetDeveloper\trilha-net-tdd-desafio-DIO\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
